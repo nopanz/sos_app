@@ -27,8 +27,6 @@ dependencies:
   intl: ^0.15.8
   # speech_recognition: "^0.3.0"
   speech_to_text: ^0.6.2
-  geolocator: ^5.1.4+2
-  # googleapis: ^0.54.0
   # googleapis_auth: ^0.2.10
   # flutter_sound: ^1.5.1
 
